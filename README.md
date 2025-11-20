@@ -168,7 +168,7 @@ If a field is blank, the information was not available at the time we retrieved 
 </table>
 
 ## Examples of use
-This repo contains data for our story https://calmatters.org/health/2025/11/nursing-home-shlomo-rechnitz/.
+This repo contains data for our story: [He built a nursing home empire despite state investigations. Now, lawsuits are piling up](https://calmatters.org/health/2025/11/nursing-home-shlomo-rechnitz/).
 
 ## Data Use
 
